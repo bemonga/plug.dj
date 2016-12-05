@@ -1,8 +1,8 @@
 {
     "room": "Rhythm Up!",
     "author": "Missoni",
-    "icon": null,
-    "css": null,
+    "icon": "http://i.imgur.com/2WoYVj0.png",
+    "css": "https://raw.githubusercontent.com/bemonga/plug.dj/master/rip.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
